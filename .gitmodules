@@ -1,6 +1,3 @@
-[submodule "uf2-samdx1"]
-	path = uf2-samdx1
-	url = https://github.com/mrbdahlem/uf2-samdx1
 [submodule "circuitpython"]
 	path = circuitpython
 	url = https://github.com/mrbdahlem/circuitpython.git
